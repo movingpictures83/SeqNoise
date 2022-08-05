@@ -1,0 +1,2 @@
+Prefix plugins/SeqNoise/example/
+Plugin SeqNoise inputfile parameters.seqnoise.txt outputfile output_s60_c01_T220_s30_c08

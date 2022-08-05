@@ -1,0 +1,7 @@
+fastafile	plugins/SeqNoise/example/output_s60_c01_T220.fa
+distfile	plugins/SeqNoise/example/output_s60_c01_T220.seqdist
+listfile	plugins/SeqNoise/example/output_s60_c01_T220_S.list
+lookupfile	plugins/SeqNoise/example/Tran.dat
+s	30.0
+c	0.08
+mapfile	plugins/SeqNoise/example/output_s60_c01.mapping
